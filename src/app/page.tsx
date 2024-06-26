@@ -268,4 +268,4 @@ export default function Home() {
   );
 }
 
-// parei em 02:19 horas
+// parei em 03:07 horas
