@@ -7,9 +7,9 @@ import { PRODUCT_PRICES } from "@/config/products";
 
 export const COLORS = [
   { label: "Black", value: "black", tw: "zinc-900" },
-  // { label: "Blue", value: "blue", tw: "blue-950" },
+  { label: "Blue", value: "blue", tw: "blue-950" },
   { label: "Rose", value: "rose", tw: "rose-600" },
-  { label: "Yellow", value: "yellow", tw: "yellow-500" },
+  // { label: "Yellow", value: "yellow", tw: "yellow-500" },
 ] as const;
 
 export const MODELS = {
